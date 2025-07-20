@@ -12,7 +12,7 @@ import {
   Heading,
 } from '@react-email/components'
 
-export function ExampleTrustedTwiceEmail(
+export function ExampleTrustedTwiceNewEmail(
   { when }: { when: string } = { when: new Date().toLocaleString() }
 ) {
   return (
